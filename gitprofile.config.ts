@@ -117,7 +117,7 @@ const CONFIG = {
       institution: 'California State University, Stanislaus',
       degree: 'B.S. Biological Sciences, General',
       from: '2021',
-      to: '2025',
+      to: '2026',
     },
   ],
   publications: [
