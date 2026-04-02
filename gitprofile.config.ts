@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    '',
     'Gram staining',
     'Endospore staining',
     'Indirect staining',
     'Insect collection (field)',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
   ],
   experiences: [
     {
