@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'A review paper describing the known effects that B. longum has on the immune system at varying life stages.',
           imageUrl:
-            'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/BlongumReviewArticle.png',
+            'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/BlongumReviewArticleScreenShot.png',
           link: 'https://github.com/jsanchez116/jsanchez116.github.io/blob/main/Final%20Draft%20-%20B.%20longum%20Review%20Article.pdf',
         },
         {
@@ -94,28 +94,14 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Ceres USD',
+      position: 'After-School Tutor',
+      from: 'August 2025',
       to: 'Present',
-      companyLink: 'https://example.com',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+    
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
+
   educations: [
     {
       institution: 'California State University, Stanislaus',
