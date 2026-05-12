@@ -116,7 +116,7 @@ const CONFIG = {
       conferenceName: 'In Revision',
       journalName: 'American Society for Microbiology',
       authors: 'Tricia A. Van Laar, Karisma Naidu, Arielle Names, Silvestre Garcia Pimentel, Jose Jesus Sanchez, Emma Yu',
-      link: 'https://example.com',
+      link: 'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/MRAResearchPaper.pdf',
       description:
         'A microbiology resource announcement relating to Flavobacterium xanthum. This is done as a collaboration with the Joint Genome Institute.',
     },
