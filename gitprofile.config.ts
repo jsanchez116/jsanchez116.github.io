@@ -40,14 +40,7 @@ const CONFIG = {
             'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/BlongumReviewArticleScreenShot.png',
           link: 'https://github.com/jsanchez116/jsanchez116.github.io/blob/main/Final%20Draft%20-%20B.%20longum%20Review%20Article.pdf',
         },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+       
       ],
     },
   },
