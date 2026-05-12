@@ -87,6 +87,10 @@ const CONFIG = {
     'Endospore staining',
     'Indirect staining',
     'Insect collection (field)',
+    'EnteroPluri test',
+    'API® Staph kit',
+    'DNA Purification',
+    'Gel Electrophoresis',
   ],
   experiences: [
     {
