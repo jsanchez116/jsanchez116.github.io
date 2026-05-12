@@ -38,7 +38,7 @@ const CONFIG = {
             'A review paper describing the known effects that B. longum has on the immune system at varying life stages.',
           imageUrl:
             'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/Final%20Draft%20-%20B.%20longum%20Review%20Article.pdf',
-          link: 'https://example.com',
+          link: 'https://github.com/jsanchez116/jsanchez116.github.io/blob/main/Final%20Draft%20-%20B.%20longum%20Review%20Article.pdf',
         },
         {
           title: 'Project Name',
