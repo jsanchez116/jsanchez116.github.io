@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/Updated%20JS%20CV%205.7.26', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/UpdatedCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Gram staining',
@@ -112,23 +112,15 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      title: 'Genome sequence of psychrophile Flavobacterium xanthum DSM3661 isolated from soil in Antarctica.',
+      conferenceName: 'In Revision',
+      journalName: 'American Society for Microbiology',
+      authors: 'Tricia A. Van Laar, Karisma Naidu, Arielle Names, Silvestre Garcia Pimentel, Jose Jesus Sanchez, Emma Yu',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'A microbiology resource announcement relating to Flavobacterium xanthum. This is done as a collaboration with the Joint Genome Institute.',
     },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
