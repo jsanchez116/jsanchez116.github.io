@@ -50,7 +50,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'jsanchez116',
+    linkedin: 'josesanchez4',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -79,7 +79,6 @@ const CONFIG = {
     'Gram staining',
     'Endospore staining',
     'Indirect staining',
-    'Insect collection (field)',
     'EnteroPluri test',
     'API® Staph kit',
     'DNA Purification',
