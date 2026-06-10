@@ -117,7 +117,7 @@ const CONFIG = {
   publications: [
     {
       title: 'Genome sequence of psychrophile Flavobacterium xanthum DSM3661 isolated from soil in Antarctica.',
-      conferenceName: 'In Revision',
+      conferenceName: 'Under Revision',
       journalName: 'American Society for Microbiology',
       authors: 'Tricia A. Van Laar, Karisma Naidu, Arielle Names, Silvestre Garcia Pimentel, Jose Jesus Sanchez, Emma Yu',
       link: 'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/MRAResearchPaper.pdf',
