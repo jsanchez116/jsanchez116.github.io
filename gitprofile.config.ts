@@ -84,6 +84,18 @@ const CONFIG = {
     'DNA Purification',
     'Gel Electrophoresis',
   ],
+  Relevant Coursework (CSU Stanislaus): [
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+  ],
+    
   experiences: [
     {
       company: 'Ceres USD',
