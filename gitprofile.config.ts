@@ -86,7 +86,7 @@ const CONFIG = {
     'Google Workspace',
     'Microsoft Office',
   ],
-  header: 'Relevant Coursework (CSU Stanislaus)',
+  coursework: [
     'Sample Course # 1',
     'Sample Course # 2 + Lab',
     '',
