@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'The Effects of Bifidobacterium longum on the Immune System',
           description:
-            'A review paper describing the known effects that B. longum has on the immune system at varying life stages.',
+            'A review paper describing the currently known effects of B. longum on the immune system at varying life stages. This was written for the Writing Proficiency (WP) course, BIOL 4010 - Research and Technical Writing in Biology.',
           imageUrl:
             'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/BlongumReviewArticleScreenShot.png',
           link: 'https://github.com/jsanchez116/jsanchez116.github.io/blob/main/Final%20Draft%20-%20B.%20longum%20Review%20Article.pdf',
@@ -76,13 +76,15 @@ const CONFIG = {
       'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/UpdatedCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Gram staining',
+    'Simple staining',
+    'Differential staining',
     'Endospore staining',
-    'Indirect staining',
     'EnteroPluri test',
     'API® Staph kit',
-    'DNA Purification',
-    'Gel Electrophoresis',
+    'Media Preparation',
+    'useGalaxy',
+    'Google Workspace',
+    'Microsoft Office',
   ],
   'Relevant Coursework (CSU Stanislaus)': [
     'Sample Course',
