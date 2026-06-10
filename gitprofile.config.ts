@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jsanchez116/BIOL4810/module02', 'jsanchez116/BIOL4810/module03', 'jsanchez116/BIOL4810/module04', 'jsanchez116/BIOL4810/FinalProject], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jsanchez116/BIOL4810/module02', 'jsanchez116/BIOL4810/module03', 'jsanchez116/BIOL4810/module04', 'jsanchez116/BIOL4810/FinalProject'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -84,7 +84,7 @@ const CONFIG = {
     'DNA Purification',
     'Gel Electrophoresis',
   ],
-  Relevant Coursework (CSU Stanislaus): [
+  'Relevant Coursework (CSU Stanislaus)': [
     'Sample Course',
     '',
     '',
