@@ -85,7 +85,7 @@ const CONFIG = {
     'Gel Electrophoresis',
   ],
   Relevant Coursework (CSU Stanislaus): [
-    '',
+    'Sample Course',
     '',
     '',
     '',
