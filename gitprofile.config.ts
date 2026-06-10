@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'Github Projects (Bioinformatics)',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['tvanlaar/Biehleretal', 'tvanlaar/CHSPMicrobiome'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jsanchez116/GenomeAnnotationAssessmentMining', 'jsanchez116/AmpliconAnalysis', 'jsanchez116/TranscriptomeAnalysis', 'jsanchez116/BdendrobatidiaTranscriptome], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
