@@ -87,15 +87,10 @@ const CONFIG = {
     'Microsoft Office',
   ],
   coursework: [
-    'Sample Course # 1',
+    {
+      'Sample Course # 1',
     'Sample Course # 2 + Lab',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
+    },
   ],
     
   experiences: [
@@ -124,7 +119,7 @@ const CONFIG = {
       authors: 'Tricia A. Van Laar, Karisma Naidu, Arielle Names, Silvestre Garcia Pimentel, Jose Jesus Sanchez, Emma Yu',
       link: 'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/MRAResearchPaper.pdf',
       description:
-        'A microbiology resource announcement relating to Flavobacterium xanthum. This is done as a collaboration with the Joint Genome Institute.',
+        'A microbiology resource announcement (MRA) relating to the bacterium Flavobacterium xanthum. This project was done as a collaboration with the Joint Genome Institute.',
     },
     
   ],
