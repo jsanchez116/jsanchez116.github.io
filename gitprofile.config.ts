@@ -76,11 +76,11 @@ const CONFIG = {
       'https://github.com/jsanchez116/jsanchez116.github.io/raw/main/UpdatedCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Simple staining',
-    'Differential staining',
-    'Endospore staining',
-    'EnteroPluri test',
-    'API® Staph kit',
+    'Simple Staining',
+    'Differential Staining',
+    'Endospore Staining',
+    'EnteroPluri Test',
+    'API® Staph Kit',
     'Media Preparation',
     'useGalaxy',
     'Google Workspace',
