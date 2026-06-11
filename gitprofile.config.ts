@@ -88,7 +88,7 @@ const CONFIG = {
   ],
 
     
-  experiences: [
+  coursework: [
     {
       company: 'Ceres USD',
       position: 'After-School Tutor',
