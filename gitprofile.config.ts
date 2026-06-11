@@ -85,6 +85,14 @@ const CONFIG = {
     'useGalaxy',
     'Google Workspace',
     'Microsoft Office',
+    // --- Relevant Coursework Additions ---
+    'Bioinformatics & Genomics',
+    'Microbiology',
+    'Genetics',
+    'Molecular & Cellular Biology',
+    'Biochemistry',
+    'Biostatistics',
+    'Technical Writing in Biology',
   ],
 
     
